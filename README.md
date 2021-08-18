@@ -3,18 +3,24 @@
 Computer Science Engineering Major
 Junior at Arizona State University
 
-
-```json
-{
-    "Matthew" : {
-        "Languages" : ["Java", "C++", "MIPS Assembly", "Scheme"],
-        "Tools" : ["Git", "Bash", "Hashcat", "Json", "PLPTool"],
-        "FunFact" : ["As a 3rd degree black belt, I have broken bricks with my bare hands (Yes it hurts a little)"]
-    }
-}
+```c++
+namespace Matthew::Fitzgerald {
+    enum class Languages
+    {
+        Java, 
+        Cpp, 
+        MIPS_Assembly, 
+        Scheme
+    };
+    enum class Tools
+    {
+        VSCode,
+        Git, 
+        Bash
+    };
+} // namespace Matthew::Fitzgerald
 ```
 <!--
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -24,5 +30,12 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: "As a 3rd degree black belt, I have broken bricks with my bare hands (Yes it hurts a little)",
+                      "I have two cats, Pebbles(left) and Tibblets(right)."
 -->
+
+
+<img src="https://user-images.githubusercontent.com/79553911/129826965-d574824d-86d7-4a39-a8a0-73ddf3078d93.jpg" width=300 align=left>
+
+<img src="https://user-images.githubusercontent.com/79553911/129829542-16e915aa-2854-4924-9899-01cf223b22c2.png" width=100 align=right>
+
