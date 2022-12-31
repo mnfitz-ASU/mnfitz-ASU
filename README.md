@@ -51,9 +51,6 @@ Here are some ideas to get you started:
 -->
 
 
-| <img src="https://user-images.githubusercontent.com/79553911/129826965-d574824d-86d7-4a39-a8a0-73ddf3078d93.jpg" width=225 align=left> | <img src="https://user-images.githubusercontent.com/79553911/129829542-16e915aa-2854-4924-9899-01cf223b22c2.png" width=75 align=left> |
+| <img src="https://user-images.githubusercontent.com/79553911/129826965-d574824d-86d7-4a39-a8a0-73ddf3078d93.jpg" width=225 align=left> | <img src="https://user-images.githubusercontent.com/79553911/210123641-a20f04cb-1554-4032-a605-c370722317ef.png" width=75 align=left> |
 |:--:|:--:|
 | My two cats, Pebbles(L) and Tibblets(R) | My super cool skin in Minecraft | 
-
-
-
