@@ -8,7 +8,7 @@ Expected Graduation Date: May 2023<br>
 [![Linkedin: matthew-n-fitzgerald](https://img.shields.io/badge/-matthewf-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matthew-n-fitzgerald/)](https://www.linkedin.com/in/matthew-n-fitzgerald/)
 [![GitHub mnfitz-ASU](https://img.shields.io/github/followers/mnfitz-ASU?label=follow&style=social)](https://github.com/mnfitz-ASU)
 
-- 🔭 I’m currently working on: MobileSat, an IOS app that tracks satellites in real time onto a map.
+- 🔭 I’m currently working on: MobileSat, an IOS app that tracks satellites in real time.
 - 🌱 I’m currently learning: software integration and engineering, and User Interface design.
 - 🤔 I'm interested in: app and game development.
 - 💬 Ask me about: how to use command blocks to spice up your minecraft experience.
