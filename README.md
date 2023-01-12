@@ -14,7 +14,7 @@ Expected Graduation Date: May 2023<br>
 - 💬 Ask me about: how to use command blocks to spice up your minecraft experience.
 
 ### More About Me
-```c++
+```cpp
 #include <ComputerScienceMajor>
 
 namespace Matthew::Fitzgerald {
