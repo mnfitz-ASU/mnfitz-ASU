@@ -1,15 +1,15 @@
 ### Hi, I'm Matthew Fitzgerald
 
 Computer Science Engineering Major<br>
-Junior at Arizona State University, GPA: 3.65
+Senior at Arizona State University, GPA: 3.30
 Expected Graduation Date: May 2023<br>
 <img src="https://user-images.githubusercontent.com/79553911/131261120-f0bf6a3f-50bf-432a-977c-e1c6972cd3ce.png" width=75 align=left>
 
 [![Linkedin: matthew-n-fitzgerald](https://img.shields.io/badge/-matthewf-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matthew-n-fitzgerald/)](https://www.linkedin.com/in/matthew-n-fitzgerald/)
 [![GitHub mnfitz-ASU](https://img.shields.io/github/followers/mnfitz-ASU?label=follow&style=social)](https://github.com/mnfitz-ASU)
 
-- 🔭 I’m currently working on: "Covid 360," a covid-19 statistics app written in Java.
-- 🌱 I’m currently learning: how to apply [MVC](https://en.wikipedia.org/wiki/Model%E2%80%93view%E2%80%93controller) for user interfaces.
+- 🔭 I’m currently working on: MobileSat, an IOS app that tracks satellites onto a map.
+- 🌱 I’m currently learning: software integration and engineering, and User Interface design.
 - 🤔 I'm interested in: app and game development.
 - 💬 Ask me about: how to use command blocks to spice up your minecraft experience.
 
@@ -18,16 +18,19 @@ Expected Graduation Date: May 2023<br>
 #include <ComputerScienceMajor>
 
 namespace Matthew::Fitzgerald {
-    enum class Languages {
-        Java, 
+    enum class Languages { 
         Cpp, 
         C,
-        MIPS_Assembly, 
+        SwiftUI,
+        Java,
+        MIPS_Assembly,
         Scheme
     };
     enum class Tools {
         VSCode,
+        Visual_Studio,
         Git, 
+        Xcode,
         Bash
     };
 } // namespace Matthew::Fitzgerald
