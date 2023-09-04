@@ -9,7 +9,7 @@ Expected Graduation Date: May 2023<br>
 [![GitHub mnfitz-ASU](https://img.shields.io/github/followers/mnfitz-ASU?label=follow&style=social)](https://github.com/mnfitz-ASU)
 
 - 🔭 I’m currently working on: MobileSat, an iOS app that tracks satellites in real time.
-- 🌱 I’m currently learning: software integration and engineering, and User Interface design.
+- 🌱 I’m currently learning: software integration and engineering, Rust, and User Interface design.
 - 🤔 I'm interested in: app and game development.
 - 💬 Ask me about: how to use command blocks to spice up your minecraft experience.
 
