@@ -1,8 +1,8 @@
 ### Hi, I'm Matthew Fitzgerald
 
 Computer Science Engineering Major<br>
-Senior at Arizona State University, GPA: 3.30
-Expected Graduation Date: May 2023<br>
+Arizona State University Graduate.
+Graduation Date: May 2023<br>
 <img src="https://user-images.githubusercontent.com/79553911/131261120-f0bf6a3f-50bf-432a-977c-e1c6972cd3ce.png" width=75 align=left>
 
 [![Linkedin: matthew-n-fitzgerald](https://img.shields.io/badge/-matthewf-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matthew-n-fitzgerald/)](https://www.linkedin.com/in/matthew-n-fitzgerald/)
